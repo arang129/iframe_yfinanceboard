@@ -68,7 +68,7 @@ TEMPLATE = """\
 <!DOCTYPE html>
 <html>
 <head>
-    <title>pgweb</title>
+    <title>yfinanceboard</title>
     <link rel="icon" type="image/png" href="https://upload.wikimedia.org/wikipedia/commons/8/8f/Yahoo%21_Finance_logo_2021.png">
     
     <style>
