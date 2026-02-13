@@ -80,7 +80,7 @@ TEMPLATE = """\
     </style>
 </head>
 <body>
-    <iframe src="https://jupyter2.yunlab.app/services/yfinanceboard/" 
+    <iframe src="https://jupyter.yunlab.app/services/yfinanceboard/" 
             style="width: 100vw; height: 100vh; border: none;">
     </iframe>
 </body>
